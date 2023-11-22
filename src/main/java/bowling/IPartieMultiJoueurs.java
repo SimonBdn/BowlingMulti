@@ -1,5 +1,7 @@
 package bowling;
 
+import java.util.TreeSet;
+
 /**
  *
  * @author rbastide
